@@ -69,10 +69,10 @@ class Player {
     this.attackHit = false;
 
     this.animations = {
-      idle: { img: load("./sprites/IDLE.png"), frames: 10 },
-      run: { img: load("./sprites/RUN.png"), frames: 16 },
-      attack: { img: load("./sprites/ATTACK 1.png"), frames: 7 },
-      hurt: { img: load("./sprites/HURT.png"), frames: 4 },
+      idle: { img: load("./Sprites/IDLE.png"), frames: 10 },
+      run: { img: load("./Sprites/RUN.png"), frames: 16 },
+      attack: { img: load("./Sprites/ATTACK 1.png"), frames: 7 },
+      hurt: { img: load("./Sprites/HURT.png"), frames: 4 },
     };
   }
 
