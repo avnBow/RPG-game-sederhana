@@ -72,7 +72,7 @@ class Player {
       idle: { img: load("./sprites/IDLE.png"), frames: 10 },
       run: { img: load("./sprites/RUN.png"), frames: 16 },
       attack: { img: load("./sprites/ATTACK 1.png"), frames: 7 },
-      hurt: { img: load("s./prites/HURT.png"), frames: 4 },
+      hurt: { img: load("./sprites/HURT.png"), frames: 4 },
     };
   }
 
